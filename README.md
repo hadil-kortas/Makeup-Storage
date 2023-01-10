@@ -1,4 +1,4 @@
-# GestionDeStock_Android
+# Makeup Storage
 
 A cause des difficultés rencontrées par le magasinier (mauvaise organisation, mauvaise gestion, 
 désordre…). Nous proposons d’offrir une application qui va lui faciliter la gestion de son magasin.
