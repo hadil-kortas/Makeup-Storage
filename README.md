@@ -14,8 +14,6 @@ Les fonctionnalités attendues par le magasinier sont:
 - Supprimer des produits.
 - Afficher la liste de stock.
 - Afficher les informations des fournisseurs.
-- Envoyer un mail au fournisseur.
-- Consulter les comptes des gestionnaires.
 - Voir les statistiques des produits.
 - Ajouter un fournisseur. 
 
